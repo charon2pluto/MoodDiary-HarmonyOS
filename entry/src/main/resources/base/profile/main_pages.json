@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/MoodHistory",
+    "pages/DiaryEdit",
+    "pages/MoodStatistics",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/MoodDetail",
+    "pages/SettingsPage"
+  ]
+}
